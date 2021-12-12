@@ -1,4 +1,4 @@
 # Guide
-This is the main mean for PiggyIsland.
+This is the main manu for PiggyIsland.
 
 [Test](#Guide)
