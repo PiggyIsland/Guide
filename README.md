@@ -12,3 +12,5 @@ This is the main menu for PiggyIsland.
 [Piggy-Vocabulary](https://github.com/PiggyIsland/Piggy-Vocabulary)
 
 [Piggy-Review](https://github.com/PiggyIsland/Piggy-Review)
+
+[Piggy-Schedule](https://github.com/PiggyIsland/Piggy-Schedule)
