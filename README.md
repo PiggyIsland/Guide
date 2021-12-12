@@ -1,4 +1,4 @@
 # Guide
-This is the main manu for PiggyIsland.
+This is the main menu for PiggyIsland.
 
-[Test](#Guide)
+[Algorithm](https://github.com/PiggyIsland/Algorithm)
