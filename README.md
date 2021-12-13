@@ -5,7 +5,7 @@ This is the main menu for PiggyIsland.
 
 [CS-Foundation](https://github.com/PiggyIsland/CS-Foundation)
 
-[JAVA-Project](https://github.com/PiggyIsland/JAVA-Project)
+[Java-Project](https://github.com/PiggyIsland/JAVA-Project)
 
 [Interview-Experience](https://github.com/PiggyIsland/Interview-Experience)
 
